@@ -1,16 +1,16 @@
-# Formulário de Login React
+# 🔐 Formulário de Login React
 
-![Preview](./preview.png) *(adicione depois)*
+![Preview](./preview.png)
 
-## 📋 Descrição  
-Trabalho da disciplina de Programação Web Front-End (UniCarioca).  
+## 📚 Sobre  
+Trabalho da disciplina **Programação Web Front-End** na UniCarioca.
 
 ## ✨ Funcionalidades  
 - Campos de usuário/senha validados  
 - Componentes reutilizáveis (`<TextBox>`, `<Button>`)  
 - Estado gerenciado via Hooks  
 
-## 🚀 Como Executar  
+## 🚀 Execução  
 ```bash
 npm install
 npm start
