@@ -1,9 +1,14 @@
 # Formulário de Login React
 
-![Preview do Formulário](./preview.png) *(adicione depois)*
+![Preview](./preview.png) *(adicione depois)*
 
-## 📚 Disciplina  
-Programação Web Front-End - UniCarioca
+## 📋 Descrição  
+Trabalho da disciplina de Programação Web Front-End (UniCarioca).  
+
+## ✨ Funcionalidades  
+- Campos de usuário/senha validados  
+- Componentes reutilizáveis (`<TextBox>`, `<Button>`)  
+- Estado gerenciado via Hooks  
 
 ## 🚀 Como Executar  
 ```bash
