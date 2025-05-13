@@ -1,0 +1,33 @@
+/* Login.css */
+.login-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.textbox-container {
+  margin-bottom: 15px;
+}
+
+.textbox-container label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.textbox-container input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.login-button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
