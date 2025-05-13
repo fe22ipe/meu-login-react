@@ -1,6 +1,6 @@
 # 🔐 Formulário de Login React
 
-![Preview](./preview.png) *(adicione depois)*
+![Preview](./preview.png)
 
 ## 📚 Sobre  
 Trabalho da disciplina **Programação Web Front-End** na [UniCarioca](https://www.unicarioca.edu.br).
